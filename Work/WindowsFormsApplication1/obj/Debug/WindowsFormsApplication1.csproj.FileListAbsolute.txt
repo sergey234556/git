@@ -1,0 +1,175 @@
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rgstr.resources
+C:\Users\Марина\Desktop\практика дизайн\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Post.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sotrudnik.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Uborka.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Hotel.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Profession.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Room.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Soisk.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Glavnaya.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\Дарья\Desktop\реализация\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Bron_room.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Bron_room.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Glavnaya.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Hotel.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Post.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Profession.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Room.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Soisk.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sotrudnik.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Uborka.resources
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Дарья\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Bron_room.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Glavnaya.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Hotel.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Post.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Profession.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Room.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Soisk.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sotrudnik.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Uborka.resources
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesus\Source\Repos\TaranDarya\i-5-16_UP.02.01_04\Проект\Hotel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Glavnaya.resources
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesus\Desktop\Работа\Проект\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Avtorizacia.resources
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConnectionForm.resources
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WordExcelPdf.resources
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jesus\Desktop\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Avtorizacia.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConnectionForm.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WordExcelPdf.resources
+C:\Users\1\Desktop\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Avtorizacia.resources
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConnectionForm.resources
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WordExcelPdf.resources
+C:\Users\1\Desktop\Курсач\reh\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Avtorizacia.resources
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConnectionForm.resources
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WordExcelPdf.resources
+C:\Users\1\Desktop\Родионов СЕргей Алексеевич ПМ 02 РВиапон\КП\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Avtorizacia.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConnectionForm.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WordExcelPdf.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Delet.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dobav.resources
+C:\Users\1\Desktop\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Izme.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Avtorizacia.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConnectionForm.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registracia.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WordExcelPdf.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kassir.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Analitik.resources
+C:\Users\sereg\Desktop\учеба\практика по сипону\Программа\Работа (Сергей)\Work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Klient.resources
